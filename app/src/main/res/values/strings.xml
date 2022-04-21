@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Магазин автомобилей и мотоциклов</string>
+    <string name="heading">Список автомобилей</string>
+    <string name="heading2">Список мотоциклов</string>
+    <string name="cars">Автомобили</string>
+    <string name="motorcycles">Мотоциклы</string>
+    <string name="brand">Марка</string>
+    <string name="model">Модель</string>
+    <string name="price">Цена</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="authorization">Авторизироваться</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="buy">Корзина</string>
+    <string name="button_buyCar">Приобрести автомобиль</string>
+    <string name="button_buyMoto">Приобрести мотоцикл</string>
+    <string name="list_cars">Список автомобилей</string>
+    <string name="list_motors">Список мотоциклов</string>
+</resources>
